@@ -9,10 +9,6 @@
 
 ---
 
-### 💻 **Language**
-
-
----
 # 💼 Side Projects
 
 ---
@@ -52,14 +48,13 @@
   
 ## 🌱 Asome 학교 커뮤니티 앱 (3명)
 - **기간**: 2024.04 - 2024.06  
-- **기술 스택**: `Spring Boot`, `Flutter`, `AWS EC2`, `RDS`, `Nginx`, `JPA`, `Stomp`, `Oauth2`, `Jwt`, `GetX`  
+- **기술 스택**: `Spring Boot`, `Flutter`, `JPA`, `Stomp`, `Oauth2`, `Jwt`   
 - **주요 기능 && 맡은 역할**:
-  - **백엔드 클라우드 서버 구축**: AWS EC2와 RDS를 사용하여 안정적인 백엔드 환경 구축
-  - **리버스 프록시 설정**: Nginx를 리버스 프록시로 설정하여 요청을 Spring Boot 서버로 전달
+ 
   - **JPA 활용**: 테이블 설계, 쿼리 최적화 및 N+1 문제 해결
   - **실시간 채팅 기능**: STOMP 기반 실시간 채팅방 생성 및 읽음 확인 기능
   - **로그인 관리**: Oauth2 및 JWT 토큰 구조로 인증 처리
-  - **상태 관리**: Flutter GetX를 통한 상태 관리 및 UI 양방향 바인딩 구현
+  - **대학교 인증**: 학교인증 api를 활용하여 이메일 인증 시스템 적용용
 
 - **🔗 링크**:  
   - [📄 개요 노션](https://www.notion.so/2ea3e9b350f54686abddce1c4a282def)  
